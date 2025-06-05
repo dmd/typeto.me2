@@ -1,3 +1,4 @@
 rooms.json
 bin/
 .aider*
+server-rs/target/

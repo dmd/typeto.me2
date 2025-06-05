@@ -9,7 +9,16 @@ This is a rewrite of
 
 - some nostalgic crt bling.
 - built with deno, cre, and a font.
-- no other deps required
+- no other deps required.
+
+## Rust backend
+
+An experimental rewrite of the backend in Rust lives in `server-rs/`.
+Run it with:
+
+```bash
+cargo run --manifest-path server-rs/Cargo.toml
+```
 
 [try it out!](https://typeto.me)
 
